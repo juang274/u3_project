@@ -60,21 +60,24 @@
       "abbreviation": "DEN",
       "teamName": "Denver Nuggets",
       "simpleName": "Nuggets",
-      "location": "Denver"
+      "location": "Denver",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Denver_Nuggets.svg/640px-Denver_Nuggets.svg.png"
     },
     {
       "teamId": 1610612765,
       "abbreviation": "DET",
       "teamName": "Detroit Pistons",
       "simpleName": "Pistons",
-      "location": "Detroit"
+      "location": "Detroit",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_of_the_Detroit_Pistons_%282005%E2%80%932017%29.png"
     },
     {
       "teamId": 1610612744,
       "abbreviation": "GSW",
       "teamName": "Golden State Warriors",
       "simpleName": "Warriors",
-      "location": "Golden State"
+      "location": "Golden State",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/800px-Golden_State_Warriors_logo.svg.png"
     },
     {
       "teamId": 1610612745,
