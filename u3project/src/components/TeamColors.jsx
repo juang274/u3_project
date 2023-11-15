@@ -18,6 +18,7 @@ const TeamColors = (props) =>{
         case 'CHA':
         case 'DAL':
         case 'GSW':
+        case 'IND':
         case 'LAC':
         case 'MEM':
         case 'MIN':
@@ -27,10 +28,28 @@ const TeamColors = (props) =>{
         case 'PHI':
             Tcolor='darkblue'
             break
+        case 'CLE':
+            Tcolor='brown'
+        case 'DEN':
+        case 'LAL':
+        case 'UTA':
+            Tcolor='gold'
+            break
+        case 'MIL':
+            Tcolor='darkgreen'
+            break
+        case 'NYK':
+        case 'Golden State Warriors':
+            Tcolor='orange'
+            break
+        case 'SAC':
+            Tcolor='purple'
+            break
     }
 
     return(
-        <div className="">  
+        <div className="">
+                <h2 style={{color:Tcolor}}>{props.fullname}</h2>  
                <h2 className = 'styles' style={{color: Tcolor}}>{props.abbrev}</h2>
         </div>
     )
