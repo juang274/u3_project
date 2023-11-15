@@ -12,14 +12,23 @@ body {
   width: auto;
 }
 
-img:hover{
-width: 300px;
-}
 
-img{
+
+.normal{
   height: auto;
   transition: width 2s;
   width: 200px;
   margin:0 auto;
   border-radius: 10px;
+
+
+}
+
+
+
+.normal:hover{
+  transition: opacity 2s ease-in;
+  opacity: 1;
+  animation-duration: 2s;
+
 }
