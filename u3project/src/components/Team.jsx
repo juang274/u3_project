@@ -2,10 +2,6 @@ import { useState } from "react"
 import TeamColors from "./TeamColors"
 
 
-
-
-
-
 const Team = (props) => {
 
     return(

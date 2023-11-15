@@ -1,5 +1,6 @@
 const TeamColors = (props) =>{
     let Tcolor
+    let Acolor
 
     switch (props.abbrev) {
         case 'ATL':
@@ -16,7 +17,6 @@ const TeamColors = (props) =>{
             Tcolor='green'
             break
         case 'CHA':
-        case 'DAL':
         case 'GSW':
         case 'IND':
         case 'LAC':
@@ -24,12 +24,16 @@ const TeamColors = (props) =>{
         case 'MIN':
         case 'NOP':
         case 'OKC':
-        case 'ORL':
         case 'PHI':
             Tcolor='darkblue'
             break
+        case 'DAL':
+        case 'ORL':
+            Tcolor='royalblue'
+            break
         case 'CLE':
             Tcolor='brown'
+            break
         case 'DEN':
         case 'LAL':
         case 'UTA':
@@ -39,7 +43,7 @@ const TeamColors = (props) =>{
             Tcolor='darkgreen'
             break
         case 'NYK':
-        case 'Golden State Warriors':
+        case 'PHX':
             Tcolor='orange'
             break
         case 'SAC':
@@ -47,10 +51,50 @@ const TeamColors = (props) =>{
             break
     }
 
+    switch(props.fullname){
+
+        case 'Atlanta Hawks':
+        case 'Cleveland Cavaliers':
+        case 'Golden State Warriors':
+        case 'Indiana Pacers':
+        case 'New Orleans Pelicans':
+            Acolor='gold'
+            break
+        case 'Brooklyn Nets':
+            Acolor='white'
+            break
+        case 'Charlotte Hornets':
+            Acolor='skyblue'
+            break
+        case 'Denver Nuggets':
+        case 'Washington Wizards':
+            Acolor='midnightblue'
+            break
+        case 'Detroit Pistons':
+        case 'New York Knicks':
+            Acolor='blue'
+            break
+        case 'Los Angeles Clippers':
+        case 'Philadelphia 76ers':
+            Acolor='red'
+            break
+        case 'Los Angeles Lakers':
+        case 'Phoenix Suns':           
+            Acolor='midnightpurple'
+            break
+        case 'Oklahoma City Thunder':
+            Acolor='orange'
+            break
+
+
+        
+
+    }
+
     return(
         <div className="">
-                <h2 style={{color:Tcolor}}>{props.fullname}</h2>  
-               <h2 className = 'styles' style={{color: Tcolor}}>{props.abbrev}</h2>
+                <h2 style={{color:Acolor}}>{props.fullname}</h2>  
+               <h2 className = 'styles' style={{color:Tcolor}}>{props.abbrev}</h2>
         </div>
     )
 }
