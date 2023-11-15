@@ -1,12 +1,13 @@
 import './App.css'
 import NBA from './NBAteams.json'
 import Team from './components/Team.jsx'
+import Title from './components/Title.jsx'
 
 const App = () => {
 
   return (
     <div>
-      <h1>NBA Teams</h1>
+      <Title/>
       <Team basketball={NBA}/>
   </div>
 
