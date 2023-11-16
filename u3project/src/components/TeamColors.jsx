@@ -80,7 +80,7 @@ const TeamColors = (props) =>{
             break
         case 'Los Angeles Lakers':
         case 'Phoenix Suns':           
-            Acolor='midnightpurple'
+            Acolor='purple'
             break
         case 'Oklahoma City Thunder':
             Acolor='orange'

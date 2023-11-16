@@ -5,7 +5,8 @@
       "teamName": "Atlanta Hawks",
       "simpleName": "Hawks",
       "location": "Atlanta",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/1200px-Atlanta_Hawks_logo.svg.png"
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/1200px-Atlanta_Hawks_logo.svg.png",
+      "bestPlayer": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629027.png"
     },
     {
       "teamId": 1610612738,
@@ -13,7 +14,8 @@
       "teamName": "Boston Celtics",
       "simpleName": "Celtics",
       "location": "Boston",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png"
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png",
+      "bestPlayer": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628369.png"
     },
     {
       "teamId": 1610612751,
@@ -21,7 +23,8 @@
       "teamName": "Brooklyn Nets",
       "simpleName": "Nets",
       "location": "Brooklyn",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/1548px-Brooklyn_Nets_newlogo.svg.png"
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/1548px-Brooklyn_Nets_newlogo.svg.png",
+      "bestPlayer": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630560.png"
     },
     {
       "teamId": 1610612766,
@@ -53,7 +56,8 @@
       "teamName": "Dallas Mavericks",
       "simpleName": "Mavericks",
       "location": "Dallas",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dallas_Mavericks_logo.svg/1200px-Dallas_Mavericks_logo.svg.png"
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dallas_Mavericks_logo.svg/1200px-Dallas_Mavericks_logo.svg.png",
+      "bestPlayer": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png"
     },
     {
       "teamId": 1610612743,
@@ -61,7 +65,8 @@
       "teamName": "Denver Nuggets",
       "simpleName": "Nuggets",
       "location": "Denver",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Denver_Nuggets.svg/640px-Denver_Nuggets.svg.png"
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Denver_Nuggets.svg/640px-Denver_Nuggets.svg.png",
+      "bestPlayer": "https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png"
     },
     {
       "teamId": 1610612765,
@@ -77,7 +82,8 @@
       "teamName": "Golden State Warriors",
       "simpleName": "Warriors",
       "location": "Golden State",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/800px-Golden_State_Warriors_logo.svg.png"
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/800px-Golden_State_Warriors_logo.svg.png",
+      "bestPlayer": "https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png"
     },
     {
       "teamId": 1610612745,
@@ -101,7 +107,8 @@
       "teamName": "Los Angeles Clippers",
       "simpleName": "Clippers",
       "location": "Los Angeles",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Los_Angeles_Clippers_%282015%29.svg/1280px-Los_Angeles_Clippers_%282015%29.svg.png"
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Los_Angeles_Clippers_%282015%29.svg/1280px-Los_Angeles_Clippers_%282015%29.svg.png",
+      "bestPlayer": "https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png"
     },
     {
       "teamId": 1610612747,
@@ -109,7 +116,8 @@
       "teamName": "Los Angeles Lakers",
       "simpleName": "Lakers",
       "location": "Los Angeles",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1920px-Los_Angeles_Lakers_logo.svg.png"
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1920px-Los_Angeles_Lakers_logo.svg.png",
+      "bestPlayer": "https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png"
     },
     {
       "teamId": 1610612763,
@@ -125,7 +133,8 @@
       "teamName": "Miami Heat",
       "simpleName": "Heat",
       "location": "Miami",
-      "logo": "https://upload.wikimedia.org/wikipedia/bs/thumb/c/c3/Miami_Heat.svg/1200px-Miami_Heat.svg.png"
+      "logo": "https://upload.wikimedia.org/wikipedia/bs/thumb/c/c3/Miami_Heat.svg/1200px-Miami_Heat.svg.png",
+      "bestPlayer": "https://cdn.nba.com/headshots/nba/latest/1040x760/202710.png"
     },
     {
       "teamId": 1610612749,
@@ -133,7 +142,8 @@
       "teamName": "Milwaukee Bucks",
       "simpleName": "Bucks",
       "location": "Milwaukee",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Milwaukee_Bucks_logo.svg/1200px-Milwaukee_Bucks_logo.svg.png"
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Milwaukee_Bucks_logo.svg/1200px-Milwaukee_Bucks_logo.svg.png",
+      "bestPlayer": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png"
     },
     {
       "teamId": 1610612750,
@@ -141,7 +151,8 @@
       "teamName": "Minnesota Timberwolves",
       "simpleName": "Timberwolves",
       "location": "Minnesota",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/800px-Minnesota_Timberwolves_logo.svg.png"
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/800px-Minnesota_Timberwolves_logo.svg.png",
+      "bestPlayer": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630162.png"
     },
     {
       "teamId": 1610612740,
@@ -181,7 +192,8 @@
       "teamName": "Philadelphia 76ers",
       "simpleName": "76ers",
       "location": "Philadelphia",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Philadelphia_76ers_logo.svg/1200px-Philadelphia_76ers_logo.svg.png"
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Philadelphia_76ers_logo.svg/1200px-Philadelphia_76ers_logo.svg.png",
+      "bestPlayer": "https://cdn.nba.com/headshots/nba/latest/1040x760/203954.png"
     },
     {
       "teamId": 1610612756,
@@ -189,7 +201,8 @@
       "teamName": "Phoenix Suns",
       "simpleName": "Suns",
       "location": "Phoenix",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Phoenix_Suns_logo.svg/1200px-Phoenix_Suns_logo.svg.png"
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Phoenix_Suns_logo.svg/1200px-Phoenix_Suns_logo.svg.png",
+      "bestPlayer": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626164.png"
     },
     {
       "teamId": 1610612757,
@@ -205,7 +218,8 @@
       "teamName": "Sacramento Kings",
       "simpleName": "Kings",
       "location": "Sacramento",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/SacramentoKings.svg/1200px-SacramentoKings.svg.png"
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/SacramentoKings.svg/1200px-SacramentoKings.svg.png",
+      "bestPlayer": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628368.png"
     },
     {
       "teamId": 1610612759,
@@ -237,6 +251,7 @@
       "teamName": "Washington Wizards",
       "simpleName": "Wizards",
       "location": "Washington",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/1200px-Washington_Wizards_logo.svg.png"
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/1200px-Washington_Wizards_logo.svg.png",
+      "bestPlayer": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628398.png"
     }
   ]
