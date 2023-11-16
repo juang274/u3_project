@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && touch ./dist/CNAME && echo <'hnguyenweb.surge.sh'> >> ./dist/CNAME && npx surge --project ./dist --domain <hnguyenweb.surge.sh>",
+    "build": "vite build && touch ./dist/CNAME && echo <'hnguyenweb.surge.sh'> >> ./dist/CNAME && npx surge --project ./dist --domain <'hnguyenweb.surge.sh'>",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
